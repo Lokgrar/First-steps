@@ -17,7 +17,8 @@ GIT
 -----------------------------------------
 git clone                 - clone repo
 git status                - get status
-git add                   - track a file
+git add <filename>        - track a file
 git commit -m "<message>  - save changes to repo with a message about what the changes were
 git push origin master    - push committed changes to source repo
+git diff <filename>       - see changes in a file
 
