@@ -1,0 +1,12 @@
+sudo bash - become admin
+sudo <cmd> - run command as admin
+
+apt-get update - updates package list
+apt-get upgrade - updates packages
+
+git - repo manager
+git clone  - clone repo
+git status - get status
+git add    - track a file
+git commit - save changes to repo
+
