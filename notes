@@ -1,12 +1,23 @@
+BASH
+------------------------------------------
 sudo bash - become admin
 sudo <cmd> - run command as admin
 
 apt-get update - updates package list
 apt-get upgrade - updates packages
 
+APPLICATIONS
+-----------------------------------------
+nano - text editor
+emacs - text editor
 git - repo manager
-git clone  - clone repo
-git status - get status
-git add    - track a file
-git commit - save changes to repo
+
+
+GIT
+-----------------------------------------
+git clone                 - clone repo
+git status                - get status
+git add                   - track a file
+git commit -m "<message>  - save changes to repo with a message about what the changes were
+git push origin master    - push committed changes to source repo
 
